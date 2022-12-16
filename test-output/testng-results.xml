@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Click on StartNow button [[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> id: response]]]>
+    </line>
+    <line>
+      <![CDATA[Click NextStep Button[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select immigration status [[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select length of stay[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on next button[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select Job Type [[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on next[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Confirm result message[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_15_46_48_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_15_46_48_GMT_2022.jpg><img src=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_15_46_48_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on StartNow button [[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> id: response]]]>
+    </line>
+    <line>
+      <![CDATA[Click NextStep Button[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select immigration status [[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Confirm result message[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_15_46_52_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_15_46_52_GMT_2022.jpg><img src=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_15_46_52_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on StartNow button [[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> id: response]]]>
+    </line>
+    <line>
+      <![CDATA[Click NextStep Button[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select immigration status [[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Get message]]>
+    </line>
+    <line>
+      <![CDATA[Confirm result message[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/anAustralianComingToUKForTourismFri_Dec_16_15_46_55_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/anAustralianComingToUKForTourismFri_Dec_16_15_46_55_GMT_2022.jpg><img src=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/anAustralianComingToUKForTourismFri_Dec_16_15_46_55_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="11769" started-at="2022-12-16T15:46:44 GMT" finished-at="2022-12-16T15:46:56 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="anAustralianComingToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="anAustralianComingToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Job Search Test" duration-ms="11769" started-at="2022-12-16T15:46:44 GMT" finished-at="2022-12-16T15:46:56 GMT">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="setUp" is-config="true" duration-ms="2950" started-at="2022-12-16T15:46:44 GMT" finished-at="2022-12-16T15:46:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="inIt" is-config="true" duration-ms="16" started-at="2022-12-16T15:46:47 GMT" finished-at="2022-12-16T15:46:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="914" started-at="2022-12-16T15:46:47 GMT" finished-at="2022-12-16T15:46:48 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on StartNow button [[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> id: response]]]>
+            </line>
+            <line>
+              <![CDATA[Click NextStep Button[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select immigration status [[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select length of stay[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on next button[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select Job Type [[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on next[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Confirm result message[[ChromeDriver: chrome on WINDOWS (9de23909e43895bed8dba0d3f5c90c4a)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_15_46_48_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_15_46_48_GMT_2022.jpg><img src=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_15_46_48_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="tearDown" is-config="true" duration-ms="621" started-at="2022-12-16T15:46:48 GMT" finished-at="2022-12-16T15:46:49 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="setUp" is-config="true" duration-ms="2086" started-at="2022-12-16T15:46:49 GMT" finished-at="2022-12-16T15:46:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-16T15:46:51 GMT" finished-at="2022-12-16T15:46:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" duration-ms="521" started-at="2022-12-16T15:46:51 GMT" finished-at="2022-12-16T15:46:51 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on StartNow button [[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> id: response]]]>
+            </line>
+            <line>
+              <![CDATA[Click NextStep Button[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select immigration status [[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Confirm result message[[ChromeDriver: chrome on WINDOWS (d6da552517e41450fb043a9c994c075e)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_15_46_52_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_15_46_52_GMT_2022.jpg><img src=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20CardFri_Dec_16_15_46_52_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="tearDown" is-config="true" duration-ms="631" started-at="2022-12-16T15:46:52 GMT" finished-at="2022-12-16T15:46:52 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="setUp" is-config="true" duration-ms="2047" started-at="2022-12-16T15:46:52 GMT" finished-at="2022-12-16T15:46:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="anAustralianComingToUKForTourism" duration-ms="552" started-at="2022-12-16T15:46:54 GMT" finished-at="2022-12-16T15:46:55 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on StartNow button [[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> id: response]]]>
+            </line>
+            <line>
+              <![CDATA[Click NextStep Button[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select immigration status [[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //label[@class='gem-c-label govuk-label govuk-radios__label']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Get message]]>
+            </line>
+            <line>
+              <![CDATA[Confirm result message[[ChromeDriver: chrome on WINDOWS (770908f14d9a9f2bdf467c3b78622561)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/anAustralianComingToUKForTourismFri_Dec_16_15_46_55_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/anAustralianComingToUKForTourismFri_Dec_16_15_46_55_GMT_2022.jpg><img src=C:\Users\hetar\IdeaProjects\home-office-visa-check/test-output/html/anAustralianComingToUKForTourismFri_Dec_16_15_46_55_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- anAustralianComingToUKForTourism -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="inIt" is-config="true" duration-ms="0" started-at="2022-12-16T15:46:54 GMT" finished-at="2022-12-16T15:46:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@1786f9d5]" name="tearDown" is-config="true" duration-ms="617" started-at="2022-12-16T15:46:55 GMT" finished-at="2022-12-16T15:46:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- Job Search Test -->
+  </suite> <!-- testsuite -->
+</testng-results>
